@@ -1,7 +1,3 @@
-Here's a detailed `README.md` file for your project titled *Document Insights Analysis through Topic Proximity Visualization: A Topic Modeling-Based Approach*. This file explains the purpose, modules, setup, and usage for your topic modeling project.
-
----
-
 # Document Insights Analysis through Topic Proximity Visualization: A Topic Modeling-Based Approach
 
 This project presents a topic modeling-based approach to analyze document insights and visualize topic proximity, enabling easier interpretation of large text corpora. Using natural language processing (NLP) techniques, it extracts thematic topics from documents and represents them visually, facilitating insights into how topics relate and cluster together within the corpus.
